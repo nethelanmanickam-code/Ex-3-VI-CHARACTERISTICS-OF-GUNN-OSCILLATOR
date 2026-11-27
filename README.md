@@ -1,5 +1,7 @@
 # Ex-3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
+NAME: NETHELAN M
 
+REG.NO.: 212225060182
 ## AIM:
 To study I-V characteristics of Gunn Diode and depth of modulation of modulation of PINdiode.
 
