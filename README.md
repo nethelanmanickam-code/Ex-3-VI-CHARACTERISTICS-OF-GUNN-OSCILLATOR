@@ -45,15 +45,18 @@ The difference of both dB reading of VSWR meter gives the modulation depth of PI
 Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.
 
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
-
+<img width="1006" height="928" alt="image" src="https://github.com/user-attachments/assets/286510ed-91b8-441b-8ddc-46b1937773c3" />
 ## C.Analysis of Results: (Write your own)
 
-(Include sample calculations/Display/plot/typical graph)
+<img width="914" height="1280" alt="image" src="https://github.com/user-attachments/assets/93b54840-dbd1-4899-8da1-883c0e09d5e4" />
+
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
 ## D.Conclusions: (Write your Own)
-
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
 ## Precautions:
 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+Thus, the V-I characteristics of Gunn diode is studied and verified experimentally.
